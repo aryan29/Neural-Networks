@@ -12,7 +12,7 @@ Example Implementation of AND Gate using this Module
 >b.plot()  
 
 #### Print can take any of four parameter:-
-* ow1-Output Weights1  
-* ow2-Output Weights2  
-* ob-Output Biases  
-* oo-Our Output  
+* ow1-Output Weights1 Array
+* ow2-Output Weights2 Array
+* ob-Output Biases Array
+* oo-Our Final Output 
