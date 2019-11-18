@@ -1,7 +1,7 @@
 # Neural-Networks
 Contains Python Code for implemenation of various logic gates using BackPropogation in python
 Example Implementation of AND Gate using this Module
-
+## Code 
 >import NeuralNetwork  
 >b=NeuralNetwork.BackPropogate("and")  
 >b.selectEpochs(10000)  
