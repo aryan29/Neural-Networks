@@ -16,3 +16,12 @@ Example Implementation of AND Gate using this Module
 * ow2-Output Weights2 Array
 * ob-Output Biases Array
 * oo-Our Final Output 
+### Functions it includes-
+* sigmoid
+* drivative
+* train -Train Different Gates Model
+* showerror -Show Error Percentage from Expected Output
+* plot :- Plot different Grpahs for you
+* print :- Print can take 4 inputs depending on which it provides output
+* selectEpochs :- To select the number of epochs(Default :-1000)
+* setLearningRate :- To select the learning rate of your Model(Default-0.1)
