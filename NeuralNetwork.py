@@ -62,7 +62,6 @@ class BackPropogate:
     def showerror(self):
         print("Error percentage is:- ",self.ex)
     def plot(self):
-        print("hello")
         plt.plot(self.kk)
         plt.xlabel("Epochs")
         plt.ylabel("Error%")
